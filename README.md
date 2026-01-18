@@ -24,3 +24,7 @@ uvicorn api.main:app --reload
 
 ### Streamlit
 streamlit run streamlit_app/streamlit_app.py
+
+### Large Files
+This repository uses Git LFS for model artifacts.
+Please ensure Git LFS is installed before cloning.
