@@ -1,0 +1,2 @@
+*.keras filter=lfs diff=lfs merge=lfs -text
+models/export/food101_savedmodel/variables/variables.data-* filter=lfs diff=lfs merge=lfs -text

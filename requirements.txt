@@ -1,0 +1,11 @@
+tensorflow>=2.15
+fastapi
+uvicorn
+streamlit
+numpy
+pandas
+pillow
+matplotlib
+tqdm
+requests
+tensorflow-datasets
